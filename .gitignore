@@ -1,1 +1,4 @@
 /target
+src/solution.rs
+Cargo.lock
+.DS_Store
